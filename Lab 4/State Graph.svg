@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG State Graph.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.82043in" height="3.55372in"
+		viewBox="0 0 563.071 255.868" xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st4 {fill:#000000;font-family:Calibri;font-size:1.5em}
+		.st5 {baseline-shift:-32.4951%;font-size:0.649902em}
+		.st6 {marker-end:url(#mrkr4-59);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st8 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st9 {font-size:1em}
+		.st10 {marker-start:url(#mrkr5-119);stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st12 {marker-end:url(#mrkr5-165);stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-6" class="st3" v:arrowType="4" v:arrowSize="2" v:setback="8.72" refX="-8.72" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr4-59" class="st3" v:arrowType="4" v:arrowSize="2" v:setback="8.24" refX="-8.24" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-119" class="st11" v:arrowType="5" v:arrowSize="2" v:setback="7.15" refX="7.15" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(4.36) "/>
+		</marker>
+		<marker id="mrkr5-165" class="st11" v:arrowType="5" v:arrowSize="2" v:setback="7.15" refX="-7.15" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Соединительная линия" v:index="0"/>
+		<v:layer v:name="Блок-схема" v:index="1"/>
+		<g id="shape59-1" v:mID="59" v:groupContext="shape" transform="translate(17.9134,-0.375)">
+			<title>Лист.59</title>
+			<rect x="0" y="0.749999" width="531.496" height="255.118" class="st1"/>
+		</g>
+		<g id="shape1-3" v:mID="1" v:groupContext="shape" v:layerMember="0;1" transform="translate(150.433,-173.288)">
+			<title>Ссылка на текущую страницу</title>
+			<desc>S1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">1</tspan></text>		</g>
+		<g id="shape6-9" v:mID="6" v:groupContext="shape" v:layerMember="0;1" transform="translate(261.693,-173.288)">
+			<title>Ссылка на текущую страницу.6</title>
+			<desc>S2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">2</tspan></text>		</g>
+		<g id="shape7-14" v:mID="7" v:groupContext="shape" v:layerMember="0;1" transform="translate(372.953,-173.288)">
+			<title>Ссылка на текущую страницу.7</title>
+			<desc>S3</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">3</tspan></text>		</g>
+		<g id="shape8-19" v:mID="8" v:groupContext="shape" v:layerMember="0;1" transform="translate(484.213,-173.288)">
+			<title>Ссылка на текущую страницу.8</title>
+			<desc>S4</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">4</tspan></text>		</g>
+		<g id="shape9-24" v:mID="9" v:groupContext="shape" v:layerMember="0;1" transform="translate(37.7559,-32.9734)">
+			<title>Ссылка на текущую страницу.9</title>
+			<desc>S5</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">5</tspan></text>		</g>
+		<g id="shape10-29" v:mID="10" v:groupContext="shape" v:layerMember="0;1" transform="translate(152.559,-32.9734)">
+			<title>Ссылка на текущую страницу.10</title>
+			<desc>S6</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">6</tspan></text>		</g>
+		<g id="shape11-34" v:mID="11" v:groupContext="shape" v:layerMember="0;1" transform="translate(267.362,-32.9734)">
+			<title>Ссылка на текущую страницу.11</title>
+			<desc>S7</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">7</tspan></text>		</g>
+		<g id="shape12-39" v:mID="12" v:groupContext="shape" v:layerMember="0;1" transform="translate(382.165,-32.9734)">
+			<title>Ссылка на текущую страницу.12</title>
+			<desc>S8</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">8</tspan></text>		</g>
+		<g id="shape13-44" v:mID="13" v:groupContext="shape" v:layerMember="0;1" transform="translate(39.1732,-173.288)">
+			<title>Ссылка на текущую страницу.13</title>
+			<desc>S0</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">0</tspan></text>		</g>
+		<g id="shape14-49" v:mID="14" v:groupContext="shape" v:layerMember="0;1" transform="translate(496.969,-32.9734)">
+			<title>Ссылка на текущую страницу.14</title>
+			<desc>S9</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.6772" cy="233.191" width="45.36" height="45.3543"/>
+			<path d="M0 233.19 A22.6772 22.6772 0 0 1 45.35 233.19 A22.6772 22.6772 0 1 1 0 233.19 Z" class="st2"/>
+			<text x="15.58" y="238.59" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="-0.284em"
+						class="st5" v:baseFontSize="18">9</tspan></text>		</g>
+		<g id="shape15-54" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(61.8504,-211.556)">
+			<title>Динамическая соединительная линия</title>
+			<desc>4λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.7251" cy="228.939" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.25 238.15 20.79 238.15 C34.86 238.15 45.25 238.15 55.63 238.15 C66.01 238.15 76.4 238.15
+						 90.47 238.15 C97.58 238.15 105.64 238.15 109.28 242.55 L109.39 242.89" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="51.8765" y="222.939" width="9.69708" height="12.0001" class="st7"/>
+			<text x="51.88" y="231.94" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>4<tspan class="st9"
+						v:langID="1049">λ</tspan> </text>		</g>
+		<g id="shape16-63" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(173.11,-211.556)">
+			<title>Динамическая соединительная линия.16</title>
+			<desc>3λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="53.0764" cy="228.939" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.25 238.15 20.79 238.15 C34.86 238.15 45.25 238.15 55.63 238.15 C66.01 238.15 76.4 238.15
+						 90.47 238.15 C97.58 238.15 105.64 238.15 109.28 242.55 L109.39 242.89" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="48.2278" y="222.939" width="9.69708" height="12.0001" class="st7"/>
+			<text x="48.23" y="231.94" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>3<tspan class="st9"
+						v:langID="1049">λ</tspan> </text>		</g>
+		<g id="shape17-71" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(284.37,-211.556)">
+			<title>Динамическая соединительная линия.17</title>
+			<desc>2λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.2647" cy="228.939" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.25 238.15 20.79 238.15 C34.86 238.15 45.25 238.15 55.63 238.15 C66.01 238.15 76.4 238.15
+						 90.47 238.15 C97.58 238.15 105.64 238.15 109.28 242.55 L109.39 242.89" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="50.4161" y="222.939" width="9.69708" height="12.0001" class="st7"/>
+			<text x="50.42" y="231.94" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2<tspan class="st9"
+						v:langID="1049">λ</tspan> </text>		</g>
+		<g id="shape18-79" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(395.63,-211.556)">
+			<title>Динамическая соединительная линия.18</title>
+			<desc>λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.4546" cy="229.506" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.25 238.15 20.79 238.15 C34.86 238.15 45.25 238.15 55.63 238.15 C66.01 238.15 76.4 238.15
+						 90.47 238.15 C97.58 238.15 105.64 238.15 109.28 242.55 L109.39 242.89" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="55.1403" y="223.506" width="4.62881" height="12.0001" class="st7"/>
+			<text x="55.14" y="232.51" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>λ </text>		</g>
+		<g id="shape19-86" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(506.89,-180.375)">
+			<title>Динамическая соединительная линия.19</title>
+			<desc>μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-53.8048" cy="279.963" width="50" height="20.0036"/>
+			<path d="M0 262.95 C-0 273.58 -11.25 273.58 -20.79 273.58 C-34.86 273.58 -45.25 273.58 -55.63 273.58 C-66.01 273.58 -76.4
+						 273.58 -90.47 273.58 C-97.58 273.58 -105.64 273.58 -109.28 269.19 L-109.39 268.85" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="-56.5539" y="273.963" width="5.49811" height="12.0001" class="st7"/>
+			<text x="-56.55" y="282.96" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
+		<g id="shape20-93" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(395.63,-166.202)">
+			<title>Динамическая соединительная линия.20</title>
+			<desc>μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-51.6176" cy="265.79" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 259.41 -11.25 259.41 -20.79 259.41 C-34.86 259.41 -45.25 259.41 -55.63 259.41 C-66.01 259.41 -76.4
+						 259.41 -90.47 259.41 C-97.58 259.41 -105.64 259.41 -109.28 255.02 L-109.39 254.67" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="-54.3668" y="259.791" width="5.49811" height="12.0001" class="st7"/>
+			<text x="-54.37" y="268.79" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
+		<g id="shape21-100" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(284.37,-166.202)">
+			<title>Динамическая соединительная линия.21</title>
+			<desc>μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-53.8048" cy="265.789" width="50" height="20.0036"/>
+			<path d="M0 248.78 C-0 259.41 -11.25 259.41 -20.79 259.41 C-34.86 259.41 -45.25 259.41 -55.63 259.41 C-66.01 259.41 -76.4
+						 259.41 -90.47 259.41 C-97.58 259.41 -105.64 259.41 -109.28 255.02 L-109.39 254.67" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="-56.5539" y="259.79" width="5.49811" height="12.0001" class="st7"/>
+			<text x="-56.55" y="268.79" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
+		<g id="shape22-107" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(173.11,-180.375)">
+			<title>Динамическая соединительная линия.22</title>
+			<desc>μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-55.9951" cy="279.963" width="50" height="20.0036"/>
+			<path d="M0 262.95 C0 273.58 -11.25 273.58 -20.79 273.58 C-34.86 273.58 -45.25 273.58 -55.63 273.58 C-66.01 273.58 -76.4
+						 273.58 -90.47 273.58 C-97.58 273.58 -105.64 273.58 -109.28 269.19 L-109.39 268.85" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="-58.7442" y="273.963" width="5.49811" height="12.0001" class="st7"/>
+			<text x="-58.74" y="282.96" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
+		<g id="shape27-114" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(68.2283,-173.288)">
+			<title>Динамическая соединительная линия.27</title>
+			<desc>γ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-43.2283" cy="301.222" width="50" height="20.0036"/>
+			<path d="M-9.86 259.94 L-10.1 260.22 C-24.39 277 -30.36 284.85 -33.36 293.42 C-35.31 299.01 -35.99 304.91 -35.28 308.69
+						 C-34.11 315 -29.06 315.4 -7.8 350.83" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-45.4597" y="295.223" width="4.46292" height="12.0001" class="st7"/>
+			<text x="-45.46" y="304.22" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>γ </text>		</g>
+		<g id="shape28-122" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(54.0551,-78.3278)">
+			<title>Динамическая соединительная линия.28</title>
+			<desc>ν</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.0394" cy="207.963" width="50" height="20.0036"/>
+			<path d="M5.75 250.54 L5.71 250.19 C5.69 249.09 6.01 247.74 7.14 245.21 C9.59 239.73 15.85 228.69 19.94 221.45 C27.73
+						 207.67 27.64 207.68 7.8 160.91" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="28.7956" y="201.963" width="4.48737" height="12.0001" class="st7"/>
+			<text x="28.8" y="210.96" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ν </text>		</g>
+		<g id="shape29-129" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(60.4331,-71.2411)">
+			<title>Динамическая соединительная линия.29</title>
+			<desc>4λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.672" cy="227.522" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.6 238.15 21.44 238.15 C35.97 238.15 46.68 238.15 57.4 238.15 C68.12 238.15 78.84 238.15
+						 93.36 238.15 C100.7 238.15 109.02 238.15 112.78 242.56 L112.89 242.91" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="51.8234" y="221.522" width="9.69708" height="12.0001" class="st7"/>
+			<text x="51.82" y="230.52" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>4<tspan class="st9"
+						v:langID="1049">λ</tspan> </text>		</g>
+		<g id="shape30-137" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(175.236,-71.2411)">
+			<title>Динамическая соединительная линия.30</title>
+			<desc>3λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.4228" cy="227.522" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.6 238.15 21.44 238.15 C35.97 238.15 46.68 238.15 57.4 238.15 C68.12 238.15 78.84 238.15
+						 93.36 238.15 C100.7 238.15 109.02 238.15 112.78 242.56 L112.89 242.91" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="53.5742" y="221.522" width="9.69708" height="12.0001" class="st7"/>
+			<text x="53.57" y="230.52" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>3<tspan class="st9"
+						v:langID="1049">λ</tspan> </text>		</g>
+		<g id="shape31-145" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(290.039,-85.4144)">
+			<title>Динамическая соединительная линия.31</title>
+			<desc>2λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.1312" cy="244.53" width="50" height="20.0036"/>
+			<path d="M0 262.95 C0 252.32 11.6 252.32 21.44 252.32 C35.97 252.32 46.68 252.32 57.4 252.32 C68.12 252.32 78.84 252.32
+						 93.36 252.32 C100.7 252.32 109.02 252.32 112.78 256.74 L112.89 257.08" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="53.2826" y="238.53" width="9.69708" height="12.0001" class="st7"/>
+			<text x="53.28" y="247.53" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2<tspan class="st9"
+						v:langID="1049">λ</tspan> </text>		</g>
+		<g id="shape32-153" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(404.843,-71.2411)">
+			<title>Динамическая соединительная линия.32</title>
+			<desc>λ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.2556" cy="227.522" width="50" height="20.0036"/>
+			<path d="M0 248.78 C0 238.15 11.6 238.15 21.44 238.15 C35.97 238.15 46.68 238.15 57.4 238.15 C68.12 238.15 78.84 238.15
+						 93.36 238.15 C100.7 238.15 109.02 238.15 112.78 242.56 L112.89 242.91" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="54.9413" y="221.522" width="4.62881" height="12.0001" class="st7"/>
+			<text x="54.94" y="230.52" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>λ </text>		</g>
+		<g id="shape33-160" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(167.087,-173.288)">
+			<title>Динамическая соединительная линия.33</title>
+			<desc>ν</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.0787" cy="302.923" width="50" height="20.0036"/>
+			<path d="M6.02 255.87 C6.02 266.5 19.77 278.36 25.04 288.96 C31.84 302.62 24.56 314.16 10.47 345.6 L10.33 345.93"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="32.835" y="296.923" width="4.48737" height="12.0001" class="st7"/>
+			<text x="32.83" y="305.92" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ν </text>		</g>
+		<g id="shape34-168" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(181.26,-78.3278)">
+			<title>Динамическая соединительная линия.34</title>
+			<desc>γ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-31.5354" cy="206.262" width="50" height="20.0036"/>
+			<path d="M-6.02 255.87 C-6.02 245.24 -12.28 241.22 -17.59 234.23 C-25.33 224.06 -31.08 207.59 -10.72 166.02 L-10.56 165.7"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-33.7668" y="200.262" width="4.46292" height="12.0001" class="st7"/>
+			<text x="-33.77" y="209.26" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>γ </text>		</g>
+		<g id="shape35-175" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(280.118,-173.288)">
+			<title>Динамическая соединительная линия.35</title>
+			<desc>ν</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="302.923" width="50" height="20.0036"/>
+			<path d="M4.25 255.87 C4.25 266.5 17.14 272.06 23.28 280.3 C31.77 291.69 27.36 308.2 12.1 345.54 L11.96 345.87"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="33.1893" y="296.923" width="4.48737" height="12.0001" class="st7"/>
+			<text x="33.19" y="305.92" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ν </text>		</g>
+		<g id="shape36-182" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(294.291,-78.3278)">
+			<title>Динамическая соединительная линия.36</title>
+			<desc>γ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-33.4488" cy="206.262" width="50" height="20.0036"/>
+			<path d="M-4.25 255.87 C-4.25 245.24 -16.06 233.94 -21.98 224.35 C-29.97 211.39 -27.22 201.53 -12.17 166.17 L-12.03 165.84"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-35.6802" y="200.262" width="4.46292" height="12.0001" class="st7"/>
+			<text x="-35.68" y="209.26" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>γ </text>		</g>
+		<g id="shape37-189" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(393.15,-173.288)">
+			<title>Динамическая соединительная линия.37</title>
+			<desc>ν</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.7008" cy="302.923" width="50" height="20.0036"/>
+			<path d="M2.48 255.87 C2.48 266.5 9.91 266.25 15.18 273.44 C22.44 283.36 25.58 307.44 13.49 345.4 L13.38 345.74"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="26.457" y="296.923" width="4.48737" height="12.0001" class="st7"/>
+			<text x="26.46" y="305.92" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ν </text>		</g>
+		<g id="shape38-196" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(407.323,-78.3278)">
+			<title>Динамическая соединительная линия.38</title>
+			<desc>γ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-27.9921" cy="208.53" width="50" height="20.0036"/>
+			<path d="M-2.48 255.87 C-2.48 245.24 -10.25 246.37 -15 238.18 C-21.22 227.43 -22.23 200.65 -13.22 166.42 L-13.12 166.08"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-30.2235" y="202.53" width="4.46292" height="12.0001" class="st7"/>
+			<text x="-30.22" y="211.53" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>γ </text>		</g>
+		<g id="shape39-203" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(506.181,-173.288)">
+			<title>Динамическая соединительная линия.39</title>
+			<desc>ν</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="301.222" width="50" height="20.0036"/>
+			<path d="M0.71 255.87 C0.71 266.5 12.44 266.81 19.06 277.02 C26.92 289.13 27.58 315.18 15.65 345.54 L15.52 345.87"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="29.646" y="295.223" width="4.48737" height="12.0001" class="st7"/>
+			<text x="29.65" y="304.22" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ν </text>		</g>
+		<g id="shape40-210" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(520.354,-78.3278)">
+			<title>Динамическая соединительная линия.40</title>
+			<desc>γ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-31.0394" cy="209.096" width="50" height="20.0036"/>
+			<path d="M-0.71 255.87 C-16.3 234.61 -16.3 240.19 -18.69 233.15 C-21.37 225.27 -27.06 201.59 -15.36 166.31 L-15.24 165.97"
+					class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-33.2708" y="203.097" width="4.46292" height="12.0001" class="st7"/>
+			<text x="-33.27" y="212.1" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>γ </text>		</g>
+	</g>
+</svg>
