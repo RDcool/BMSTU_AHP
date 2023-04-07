@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Создано Microsoft Visio, экспорт SVG Граф состояний.svg Страница-1 -->
+<!-- Создано Microsoft Visio, экспорт SVG State greaph.svg Страница-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.37212in" height="6.18349in"
-		viewBox="0 0 386.792 445.211" xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
+		viewBox="0 0 386.792 445.211" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
 	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
@@ -18,9 +18,15 @@
 		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st9 {fill:#000000;font-family:Calibri;font-size:0.833336em}
 		.st10 {font-size:1em}
-		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt}
-		.st12 {marker-end:url(#mrkr4-105);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st11 {marker-end:url(#mrkr4-105);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st13 {marker-end:url(#mrkr4-191);stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st14 {fill:#808080;fill-opacity:1;stroke:#808080;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st15 {fill:#808080;font-family:Calibri;font-size:0.833336em}
+		.st16 {marker-end:url(#mrkr4-221);stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st17 {fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st18 {marker-end:url(#mrkr6-229);stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -39,6 +45,21 @@
 		<marker id="mrkr4-105" class="st7" v:arrowType="4" v:arrowSize="2" v:setback="8.72" refX="-8.72" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr4-191" class="st14" v:arrowType="4" v:arrowSize="2" v:setback="8.24" refX="-8.24" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr4-221" class="st17" v:arrowType="4" v:arrowSize="2" v:setback="8.24" refX="-8.24" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<g id="lend6">
+			<path d="M 2 1 L 0 0 L 2.01237 -1.00641 C 2.32921 -0.372876 2.32921 0.372869 2.01238 1.0064 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr6-229" class="st17" v:arrowType="6" v:arrowSize="2" v:setback="9.33" refX="-9.33" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend6" transform="scale(-4.36,-4.36) "/>
 		</marker>
 	</defs>
 	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
@@ -215,36 +236,36 @@
 			<v:textRect cx="-41.054" cy="455.133" width="50" height="20.0036"/>
 			<path d="M0 438.12 C-0 448.75 -20.89 448.75 -41.79 448.75 C-57.87 448.75 -73.96 448.75 -80.51 443.9 L-80.68 443.59"
 					class="st6"/>
-			<rect v:rectContext="textBkgnd" x="-45.9246" y="449.133" width="9.7413" height="12.0001" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="-45.9246" y="449.133" width="9.7413" height="12.0001" class="st8"/>
 			<text x="-45.92" y="458.13" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>p<tspan class="st10"
 						v:langID="1049">ν</tspan> </text>		</g>
 		<g id="shape68-100" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(311.227,-368.879)">
 			<title>Динамическая соединительная линия.68</title>
 			<desc>2(1 – p)ν</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-16.9302" cy="487.719" width="50" height="20.0036"/>
+			<v:textRect cx="44.5816" cy="487.748" width="50" height="20.0036"/>
 			<path d="M7.01 445.21 C7.01 450.53 7.01 452.3 7.01 453.39 C7.01 453.94 7.01 454.32 7.02 454.63 C7.03 455.84 7.07 455.84
-						 7.11 456.92 C7.16 458.82 7.16 464.03 7.16 469.57 C7.16 479.97 7.16 491.54 7.16 523.71" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="-34.6523" y="481.719" width="35.4441" height="12.0001" class="st8"/>
-			<text x="-34.65" y="490.72" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2(1 – p)<tspan
+						 7.11 456.92 C7.16 458.82 7.16 464.03 7.16 469.57 C7.16 479.97 7.16 491.54 7.16 523.71" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="26.8595" y="481.748" width="35.4441" height="12.0001" class="st8"/>
+			<text x="26.86" y="490.75" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2(1 – p)<tspan
 						class="st10" v:langID="1049">ν</tspan></text>		</g>
 		<g id="shape69-109" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(311.299,-241.32)">
 			<title>Динамическая соединительная линия.69</title>
 			<desc>2(1 – p)ν</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-17.0079" cy="487.731" width="50" height="20.0036"/>
-			<path d="M7.09 445.21 C7.09 464.47 7.09 501.17 7.09 523.71" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="-34.73" y="481.731" width="35.4441" height="12.0001" class="st8"/>
-			<text x="-34.73" y="490.73" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2(1 – p)<tspan
+			<v:textRect cx="32.5984" cy="482.062" width="50" height="20.0036"/>
+			<path d="M7.09 445.21 C7.09 464.47 7.09 501.17 7.09 523.71" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="14.8763" y="476.062" width="35.4441" height="12.0001" class="st8"/>
+			<text x="14.88" y="485.06" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2(1 – p)<tspan
 						class="st10" v:langID="1049">ν</tspan></text>		</g>
-		<g id="shape70-117" v:mID="70" v:groupContext="shape" v:layerMember="0" transform="translate(234.764,-290.926)">
+		<g id="shape70-117" v:mID="70" v:groupContext="shape" v:layerMember="0" transform="translate(234.764,-276.753)">
 			<title>Динамическая соединительная линия.70</title>
 			<desc>λ</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="41.6693" cy="435.29" width="50" height="20.0036"/>
-			<path d="M0 452.3 C0 441.67 20.91 441.67 41.81 441.67 C57.91 441.67 74 441.67 80.56 446.52 L80.73 446.84" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="39.355" y="429.29" width="4.62881" height="12.0001" class="st8"/>
-			<text x="39.35" y="438.29" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>λ </text>		</g>
+			<v:textRect cx="41.6693" cy="421.117" width="50" height="20.0036"/>
+			<path d="M0 438.12 C0 427.49 20.91 427.49 41.81 427.49 C57.91 427.49 74 427.49 80.56 432.35 L80.73 432.67" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="39.355" y="415.117" width="4.62881" height="12.0001" class="st12"/>
+			<text x="39.35" y="424.12" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>λ </text>		</g>
 		<g id="shape71-124" v:mID="71" v:groupContext="shape" v:layerMember="0" transform="translate(318.386,-234.233)">
 			<title>Динамическая соединительная линия.71</title>
 			<desc>2pν</desc>
@@ -279,7 +300,7 @@
 			<desc>(1 – p)ν</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-12.7076" cy="487.731" width="50" height="20.0036"/>
-			<path d="M7.09 445.21 C7.09 464.47 7.09 501.17 7.09 523.71" class="st12"/>
+			<path d="M7.09 445.21 C7.09 464.47 7.09 501.17 7.09 523.71" class="st11"/>
 			<rect v:rectContext="textBkgnd" x="-27.8954" y="481.731" width="30.3758" height="12.0001" class="st8"/>
 			<text x="-27.9" y="490.73" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(1 – p)<tspan
 						class="st10" v:langID="1049">ν</tspan></text>		</g>
@@ -289,7 +310,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-18.3734" cy="487.723" width="50" height="20.0036"/>
 			<path d="M7.04 445.21 C7.04 450.53 7.04 452.3 7.04 453.39 C7.04 453.94 7.04 454.32 7.04 454.63 C7.05 455.84 7.08 455.84
-						 7.1 456.92 C7.13 458.82 7.13 464.03 7.13 469.57 C7.13 479.97 7.13 491.54 7.13 523.71" class="st12"/>
+						 7.1 456.92 C7.13 458.82 7.13 464.03 7.13 469.57 C7.13 479.97 7.13 491.54 7.13 523.71" class="st11"/>
 			<rect v:rectContext="textBkgnd" x="-36.0955" y="481.723" width="35.4441" height="12.0001" class="st8"/>
 			<text x="-36.1" y="490.72" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2(1 – p)<tspan
 						class="st10" v:langID="1049">ν</tspan></text>		</g>
@@ -298,26 +319,26 @@
 			<desc>(1 – p)ν</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-17.0079" cy="485.463" width="50" height="20.0036"/>
-			<path d="M7.09 445.21 C7.09 459.2 7.09 485.45 7.09 502.45" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="-32.1957" y="479.464" width="30.3758" height="12.0001" class="st8"/>
+			<path d="M7.09 445.21 C7.09 459.2 7.09 485.45 7.09 502.45" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="-32.1957" y="479.464" width="30.3758" height="12.0001" class="st12"/>
 			<text x="-32.2" y="488.46" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(1 – p)<tspan
 						class="st10" v:langID="1049">ν</tspan></text>		</g>
-		<g id="shape77-171" v:mID="77" v:groupContext="shape" v:layerMember="0" transform="translate(234.764,-163.367)">
+		<g id="shape77-171" v:mID="77" v:groupContext="shape" v:layerMember="0" transform="translate(234.764,-149.194)">
 			<title>Динамическая соединительная линия.77</title>
 			<desc>λ</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="41.6693" cy="435.29" width="50" height="20.0036"/>
-			<path d="M0 452.3 C0 441.67 20.91 441.67 41.81 441.67 C57.91 441.67 74 441.67 80.56 446.52 L80.73 446.84" class="st6"/>
-			<rect v:rectContext="textBkgnd" x="39.355" y="429.29" width="4.62881" height="12.0001" class="st8"/>
-			<text x="39.35" y="438.29" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>λ </text>		</g>
+			<v:textRect cx="41.6693" cy="421.117" width="50" height="20.0036"/>
+			<path d="M0 438.12 C0 427.49 20.91 427.49 41.81 427.49 C57.91 427.49 74 427.49 80.56 432.35 L80.73 432.67" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="39.355" y="415.117" width="4.62881" height="12.0001" class="st8"/>
+			<text x="39.35" y="424.12" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>λ </text>		</g>
 		<g id="shape79-178" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(318.386,-106.674)">
 			<title>Динамическая соединительная линия.79</title>
 			<desc>pν</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-42.5197" cy="456.55" width="50" height="20.0036"/>
-			<path d="M0 438.12 C-0 448.75 -20.91 448.75 -41.81 448.75 C-57.91 448.75 -74 448.75 -80.56 443.9 L-80.73 443.58"
+			<path d="M0 438.12 C0 448.75 -20.91 448.75 -41.81 448.75 C-57.91 448.75 -74 448.75 -80.56 443.9 L-80.73 443.58"
 					class="st6"/>
-			<rect v:rectContext="textBkgnd" x="-47.3903" y="450.55" width="9.7413" height="12.0001" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-47.3903" y="450.55" width="9.7413" height="12.0001" class="st12"/>
 			<text x="-47.39" y="459.55" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>p<tspan class="st10"
 						v:langID="1049">ν</tspan></text>		</g>
 		<g id="shape81-186" v:mID="81" v:groupContext="shape" v:layerMember="0" transform="translate(297.126,-28.7215)">
@@ -326,35 +347,67 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-111.969" cy="404.393" width="50" height="20.0036"/>
 			<path d="M0 445.21 C-94.25 445.21 -94.25 414.87 -94.25 384.54 C-94.25 366.87 -94.25 349.2 -89.31 342.13 L-89 341.95"
-					class="st6"/>
+					class="st13"/>
 			<rect v:rectContext="textBkgnd" x="-117.252" y="398.393" width="10.5664" height="12.0001" class="st8"/>
-			<text x="-117.25" y="407.39" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>3μ </text>		</g>
-		<g id="shape82-193" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(213.504,-135.021)">
+			<text x="-117.25" y="407.39" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>3μ </text>		</g>
+		<g id="shape82-194" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(213.504,-135.021)">
 			<title>Динамическая соединительная линия.82</title>
 			<desc>2μ</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-106.972" cy="394.243" width="50" height="20.0036"/>
 			<path d="M0 445.21 C-94.3 445.21 -94.3 412.5 -94.3 389.83 C-94.3 368.31 -94.3 355.86 -94.3 337.62 C-94.3 330.75 -94.3
-						 323.05 -89.93 319.56 L-89.58 319.45" class="st6"/>
+						 323.05 -89.93 319.56 L-89.58 319.45" class="st13"/>
 			<rect v:rectContext="textBkgnd" x="-112.255" y="388.243" width="10.5664" height="12.0001" class="st8"/>
-			<text x="-112.25" y="397.24" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2μ </text>		</g>
-		<g id="shape83-200" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(129.834,-262.58)">
+			<text x="-112.25" y="397.24" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2μ </text>		</g>
+		<g id="shape83-201" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(129.834,-262.58)">
 			<title>Динамическая соединительная линия.83</title>
 			<desc>μ</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-105.914" cy="398.857" width="50" height="20.0036"/>
 			<path d="M0 445.21 C-94.2 445.21 -94.2 412.5 -94.2 389.85 C-94.2 368.32 -94.2 355.86 -94.2 337.62 C-94.2 330.75 -94.2
-						 323.05 -89.83 319.56 L-89.49 319.45" class="st6"/>
+						 323.05 -89.83 319.56 L-89.49 319.45" class="st13"/>
 			<rect v:rectContext="textBkgnd" x="-108.663" y="392.858" width="5.49811" height="12.0001" class="st8"/>
-			<text x="-108.66" y="401.86" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
-		<g id="shape93-207" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(241.85,-241.32)">
+			<text x="-108.66" y="401.86" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
+		<g id="shape93-208" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(241.85,-241.32)">
 			<title>Динамическая соединительная линия.93</title>
 			<desc>(1 – p)ν</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-32.5984" cy="487.731" width="50" height="20.0036"/>
-			<path d="M-7.09 445.21 L-7.09 523.71" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="-47.7863" y="481.731" width="30.3758" height="12.0001" class="st11"/>
+			<path d="M-7.09 445.21 L-7.09 523.71" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="-47.7863" y="481.731" width="30.3758" height="12.0001" class="st8"/>
 			<text x="-47.79" y="490.73" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(1 – p)<tspan
 						class="st10" v:langID="1049">ν</tspan></text>		</g>
+		<g id="shape119-216" v:mID="119" v:groupContext="shape" v:layerMember="0" transform="translate(297.126,-135.021)">
+			<title>Динамическая соединительная линия.119</title>
+			<desc>2μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-38.2677" cy="381.432" width="50" height="20.0036"/>
+			<path d="M0 445.21 C-10.63 445.21 -11.02 422.46 -10.73 407.97 C-10.38 390.54 -9.06 385.06 -10.26 379.93 C-11.07 376.47
+						 -13.03 373.17 -17.83 371.13 C-25.45 367.88 -40.21 367.79 -53.55 367.31 C-67.87 366.8 -80.56 365.85 -88.84
+						 359.31 C-94.71 354.68 -98.37 347.26 -97.72 336.32 C-97.35 329.98 -95.53 322.45 -89.97 319.24 L-89.62 319.15"
+					class="st16"/>
+			<rect v:rectContext="textBkgnd" x="-43.5508" y="375.432" width="10.5664" height="12.0001" class="st8"/>
+			<text x="-43.55" y="384.43" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>2μ </text>		</g>
+		<g id="shape121-224" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(5.15748,-262.58)">
+			<title>Динамическая соединительная линия.121</title>
+			<desc>μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="159.743" cy="406.488" width="50" height="20.0036"/>
+			<path d="M7.09 445.21 C197.72 445.21 174.16 455.26 169.76 429.57 C167.63 417.1 170.01 396.2 169.11 384.04 C168.12 370.62
+						 163.12 367.82 156.07 366.68 C151.67 365.97 146.47 365.91 138.93 366.82 C131.4 367.73 121.52 369.63 116.9
+						 364.72 C112.66 360.21 112.88 349.96 113.09 341.92 C113.55 325.15 114.02 317.99 14.44 317.66 L14.08 317.66"
+					class="st18"/>
+			<rect v:rectContext="textBkgnd" x="156.994" y="400.488" width="5.49811" height="12.0001" class="st8"/>
+			<text x="156.99" y="409.49" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
+		<g id="shape122-232" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(297.126,-262.58)">
+			<title>Динамическая соединительная линия.122</title>
+			<desc>μ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-40.5354" cy="379.164" width="50" height="20.0036"/>
+			<path d="M0 445.21 C-10.63 445.21 -9.8 418.21 -8.92 401.58 C-7.96 383.43 -6.96 377.64 -11.67 374.54 C-16.91 371.08 -29.21
+						 370.94 -44.66 371.44 C-61.56 371.99 -82.23 373.31 -90.09 362.21 C-95.99 353.86 -94.64 338.48 -94.29 328.98
+						 C-94.09 323.53 -94.21 320.02 -90.2 318.5 L-89.85 318.46" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="-43.2845" y="373.164" width="5.49811" height="12.0001" class="st8"/>
+			<text x="-43.28" y="382.16" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>μ </text>		</g>
 	</g>
 </svg>
